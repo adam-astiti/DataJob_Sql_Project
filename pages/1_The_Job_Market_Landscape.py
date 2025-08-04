@@ -26,12 +26,12 @@ st.markdown("First, let's get a high-level overview of the market. Where are the
 col1, col2 = st.columns(2)
 
 with col1:
-    st.image(r'Data Analysis\Result\Chapter 1 Question 1.png')
+    st.image('Data Analysis/Result/Chapter 1 Question 1.png')
 
 with col2:
-    st.image(r'Data Analysis\Result\Chapter 1 Question 3.png')
+    st.image('Data Analysis/Result/Chapter 1 Question 3.png')
 
-st.image(r'Data Analysis\Result\Chapter 1 Question 3.png', use_container_width=True)
+st.image('Data Analysis/Result/Chapter 1 Question 3.png', use_container_width=True)
 
 # Chart Explanation
 with st.expander("Finding 1: (Click Here)"):
