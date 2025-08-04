@@ -4,3 +4,5 @@ csv_files/
 Dataset/
 .vscode/
 .venv/
+__pycache__/
+*.pyc
