@@ -31,10 +31,10 @@ st.markdown("""
 col1, col2 = st.columns(2)
 
 with col1:
-    st.image('Data Analysis\Result\Chapter 3 Question 1.png')
+    st.image('Data Analysis/Result/Chapter 3 Question 1.png')
 
 with col2:
-    st.image('Data Analysis\Result\Chapter 3 Question 2.png')
+    st.image('Data Analysis/Result/Chapter 3 Question 2.png')
 
 # Chart Explanation
 with st.expander("Finding 1: (Click Here)"):
