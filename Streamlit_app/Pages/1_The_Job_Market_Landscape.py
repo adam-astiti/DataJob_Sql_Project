@@ -12,7 +12,7 @@ css_load()
 # SIDEBAR
 
 with st.sidebar:
-    st.image('Streamlit_app\streamlit-logo-primary-colormark-darktext.png', use_container_width=False)
+    st.image(r'Streamlit_app\streamlit-logo-primary-colormark-darktext.png', use_container_width=False)
     st.write("""### Project by: **Adam Astiti**""")
     st.link_button('Linkedin', 'https://www.linkedin.com/in/adam-astiti-a3787312a/', icon='💼')
     st.link_button('Github', 'https://github.com/adam-astiti', icon='👨‍💻')
@@ -26,12 +26,12 @@ st.markdown("First, let's get a high-level overview of the market. Where are the
 col1, col2 = st.columns(2)
 
 with col1:
-    st.image('Data Analysis\Result\Chapter 1 Question 1.png')
+    st.image(r'Data Analysis\Result\Chapter 1 Question 1.png')
 
 with col2:
-    st.image('Data Analysis\Result\Chapter 1 Question 3.png')
+    st.image(r'Data Analysis\Result\Chapter 1 Question 3.png')
 
-st.image('Data Analysis\Result\Chapter 1 Question 2.png', use_container_width=True)
+st.image(r'Data Analysis\Result\Chapter 1 Question 2.png', use_container_width=True)
 
 # Chart Explanation
 with st.expander("Finding 1: (Click Here)"):
