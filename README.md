@@ -87,6 +87,6 @@ How has the rise of remote work impacted the data analyst field in terms of oppo
 
 - **Database**: PostgreSQL
 
-Web Framework: Streamlit
+- Web Framework: Streamlit
 
-Version Control: Git & GitHub
+- Version Control: Git & GitHub
