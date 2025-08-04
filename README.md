@@ -18,7 +18,8 @@ Before diving into specifics, we first need to survey the entire landscape. Wher
 <td><img width="100%" alt="Chapter 1 Question 3" src="https://github.com/user-attachments/assets/aa2aadda-4270-4308-87be-9184d3e4f74d" /></td>
 </tr>
 </table>
-Key Insight: The "Data Analyst" role is the most common entry point into the data field, with a strong, seasonal hiring market dominated by the United States.
+
+**Key Insight**: The "Data Analyst" role is the most common entry point into the data field, with a strong, seasonal hiring market dominated by the United States.
 
 ## Chapter 2: The Analyst's Toolkit
 What skills are required for the job, and how do those requirements change as one advances in their career?
@@ -39,6 +40,7 @@ What is the financial return on these skills, and where are the most lucrative o
 <td><img width="990" height="490" alt="Chapter 3 Question 2" src="https://github.com/user-attachments/assets/af4ccac1-b11d-4761-bce2-7147053e0b66" /></td>
 </tr>
 </table>
+
 **Key Insight**: While foundational skills get you the job, specialization in high-demand technologies like big data and cloud platforms is what drives top-tier salaries. High salaries are a global phenomenon, not limited to a single country.
 
 ## Chapter 4: The Remote Job Landscape
@@ -52,8 +54,6 @@ How has the rise of remote work impacted the data analyst field in terms of oppo
 <td colspan="2"><img width="100%" alt="Chapter 4 Question 3" src="https://github.com/user-attachments/assets/81ed0732-ba73-4835-a167-d02d8f358590" /></td>
 </tr>
 </table>
-
-
 
 **Key Insight**: While on-site roles still constitute the vast majority of the market (>93%), remote jobs offer virtually identical average salaries. The core skills required for remote work are the same as for on-site positions, making it a viable alternative without a financial penalty.
 
