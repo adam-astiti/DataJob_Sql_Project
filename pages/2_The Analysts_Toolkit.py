@@ -16,7 +16,7 @@ st.title("Chapter 2: The Analyst's Toolkit - From Foundational Skills to Senior 
 # Sidebar
 
 with st.sidebar:
-    st.image('Streamlit_app\streamlit-logo-primary-colormark-darktext.png', use_container_width=False)
+    st.image(r'streamlit-logo-primary-colormark-darktext.png', use_container_width=False)
     st.write("""### Project by: **Adam Astiti**""")
     st.link_button('Linkedin', 'https://www.linkedin.com/in/adam-astiti-a3787312a/', icon='💼')
     st.link_button('Github', 'https://github.com/adam-astiti', icon='👨‍💻')
