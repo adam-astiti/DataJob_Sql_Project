@@ -7,6 +7,11 @@ This project performs a comprehensive, end-to-end analysis of the data analyst j
 
 The project showcases a complete data workflow, from initial data preparation and warehousing to in-depth analysis and final presentation in a live, interactive Streamlit dashboard. Check the dashboard here [Streamlit Data Storytelling Dashboard](https://datajobsqlproject.streamlit.app/)
 
+# Data Source
+The dataset used for this analysis is too large (150MB+) to be hosted on GitHub. If you are interested in the raw and cleaned datasets, you can access them via the following link:
+
+[Download the Dataset from Google Drive](https://drive.google.com/drive/u/0/folders/1rSHk8MFsiWnKlHMHfdDjwWKCCqGNd-Pz)
+
 # Analysis & Storytelling
 This analysis is structured as a story in four chapters, guiding an aspiring data analyst from a high-level market overview to specific, actionable insights for their career. To further check
 
