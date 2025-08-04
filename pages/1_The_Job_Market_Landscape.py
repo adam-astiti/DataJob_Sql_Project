@@ -31,7 +31,7 @@ with col1:
 with col2:
     st.image(r'Data Analysis\Result\Chapter 1 Question 3.png')
 
-st.image(r'Data Analysis\Result\Chapter 1 Question 2.png', use_container_width=True)
+st.image(r'Data Analysis\Result\Chapter 1 Question 3.png', use_container_width=True)
 
 # Chart Explanation
 with st.expander("Finding 1: (Click Here)"):
