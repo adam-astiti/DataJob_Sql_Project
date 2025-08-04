@@ -14,8 +14,9 @@ css_load()
 # Title
 st.title("A Data Analyst Job Market 2023")
 
-st.page('Streamlit_app\Pages\1_The_Job_Market_Landscape.py', title='The_Job_Market_Landscape')
-
+page1 = st.page('Streamlit_app\Pages\1_The_Job_Market_Landscape.py', title='The_Job_Market_Landscape')
+pg = st.navigation([page1])
+pg.run()
 # Sidebar
 
 with st.sidebar:
